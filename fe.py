@@ -4,7 +4,7 @@ class Car:
     self.model = model
 
   def move(self):
-    print("Drive!")
+    print("Drivee!")
 
 class Boat:
   def __init__(self, brand, model):
