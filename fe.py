@@ -1,7 +1,7 @@
 class Car:
   def __init__(self, brand, model):
     self.brand = brand
-    self.modelPss = model
+    self.modelPss = models
 
   def move(self):
     print("Dr!")
