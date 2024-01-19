@@ -1,6 +1,6 @@
 class Car:
   def __init__(self, brnd, modl):
-    self.brand = brand
+    self.brand = bran
     self.modlPss = mels
 
   def move(self):
