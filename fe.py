@@ -1,5 +1,5 @@
 class Car:
-  def __init__(self, br22nd, modl):
+  def __init__(self, br22nd, mol):
     self.brand = bran
     self.modlPss = me
 
