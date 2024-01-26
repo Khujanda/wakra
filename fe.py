@@ -8,7 +8,7 @@ class Car:
 
 class Boat:
   def __init__(self, brand, model):
-    self.brand = bran
+    self.brand = bra
     self.model = model
 
   def move(self):
