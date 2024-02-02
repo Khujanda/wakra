@@ -4,7 +4,7 @@ class Car:
     self.modlPs = me
 
   def move(self):
-    print("Dr3!")
+    print("D3!")
 
 class Boat:
   def __init__(self, brand, model):
