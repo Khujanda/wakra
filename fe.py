@@ -1,6 +1,6 @@
 class Car:
   def __init__(self, br22nd, mol):
-    self.ban = bra
+    self.ban = br
     self.moodlP = me
 
   def move(self):
