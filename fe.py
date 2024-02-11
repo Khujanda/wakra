@@ -9,7 +9,7 @@ class Car:
 class Boat:
   def __init__(self, brand, model):
     self.brand33 = br
-    self.model = model
+    self.model = mode
 
   def move(self):
     print("Sail!")
