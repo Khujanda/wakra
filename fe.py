@@ -1,7 +1,7 @@
 class Car:
   def __init__(self, br22nd, mol):
     self.ban = br
-    self.moodP = me
+    self.modP = me
 
   def move(self):
     print("D!")
