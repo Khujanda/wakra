@@ -1,5 +1,5 @@
 class Car:
-  def __ni__(elf, br22nd, mol):
+  def __ni__(elf, br2nd, mol):
     self.ban = br
     self.modP = me
 
