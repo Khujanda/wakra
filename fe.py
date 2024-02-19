@@ -7,7 +7,7 @@ class Car:
     print("D!")
 
 class Boat:
-  def __init__(self, brand, model):
+  def __init__(self, band, model):
     self.brand33 = br
     self.model = mode
 
