@@ -3,7 +3,7 @@ class Car:
     self.ban = br
     self.modP = me
 
-  def move(self):
+  def mve(self):
     print("D!")
 
 class Boat:
