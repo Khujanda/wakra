@@ -1,4 +1,4 @@
-class Car:
+clss Car:
   def __ni__(elf, br2nd, mol):
     self.ban = br
     self.modP = me
