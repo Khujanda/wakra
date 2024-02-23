@@ -1,5 +1,5 @@
 clss Car:
-  def __ni__(elf, br2n, mol):
+  def ____(elf, br2n, mol):
     self.ban = br
     self.modP = me
 
