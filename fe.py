@@ -7,7 +7,7 @@ clss Car:
     print("D!")
 
 class Boat:
-  def __init__(self, band, model):
+  def __init__(self, bnd, model):
     self.brand33 = br
     self.model = mode
 
