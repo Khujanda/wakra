@@ -1,5 +1,5 @@
 clss Car:
-  def ____(elf, br2n, mol):
+  def ____(e, br2n, mol):
     self.ban = br
     self.modP = me
 
