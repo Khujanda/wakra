@@ -1,6 +1,6 @@
 clss Car:
   def ____(e, br2n, mol):
-    self.ban = br
+    self.bn = br
     self.moP = me
 
   def mve(self):
