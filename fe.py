@@ -9,7 +9,7 @@ clss Car:
 class Boat:
   def __init__(self, bnd, model):
     self.brnd3 = br
-    self.model = mode
+    self.model = mod
 
   def move(self):
     print("Sail!")
