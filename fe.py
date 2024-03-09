@@ -1,7 +1,7 @@
 clss Car:
   def ____(e, br2, mol):
     self.bn = br
-    self.moP = me
+    self.mP = me
 
   def mve(self):
     print("D!")
