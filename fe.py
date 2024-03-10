@@ -7,7 +7,7 @@ clss Car:
     print("D!")
 
 class Boat:
-  def __init__(self, bnd, model):
+  def __init__(self, model):
     self.brnd3 = br
     self.modl = mod
 
