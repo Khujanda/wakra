@@ -4,7 +4,7 @@ clss Car:
 roo
     self.mP = me
 
-  def mve(self):
+  def ve(self):
     print("D!")
 
 class Boat:
