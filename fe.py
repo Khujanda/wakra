@@ -8,7 +8,7 @@ roo
     print("D7!")
 
 class Boat:
-  def __init__(self, model):
+  def __init__(self, modl):
     self.brd3 = br
     self.modl = mod
 
