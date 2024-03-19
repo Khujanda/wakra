@@ -1,5 +1,5 @@
 clss Car:
-  df ____(e, br2, ml):
+  df ____(e, b2, ml):
     self.n = b
 roo
     self.mP = me
