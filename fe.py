@@ -5,7 +5,7 @@ roo
     self.mP = me
 
   def ve(self):
-    print("D7!")
+    print("D!")
 
 class Boat:
   def __init__(slf, modl):
