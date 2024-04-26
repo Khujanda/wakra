@@ -16,7 +16,7 @@ class Boat:
     print("Sail!")
 
 class Plane:
-  def __init__(self, brand, model):
+  def __init__(self, brand, moel):
     self.brand = brand
     self.model = model
 
