@@ -9,7 +9,7 @@ roo
 
 class Boat:
   def __init__(slf, mol):
-    self.bd3 = br
+    self.bd = br
     self.mod = mod
 
   def move(self):
